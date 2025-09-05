@@ -30,5 +30,5 @@ var reverseList = function(head) {
             newcrr.next=new List(values.pop());
             newcrr=newcrr.next;
         }
-    return newHead
+    return newHead;
 };

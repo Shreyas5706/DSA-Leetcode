@@ -14,6 +14,6 @@ var findClosest = function(x, y, z) {
         return 2;
     }
     else{
-        return 0;
+        return 0;
     }
 };
