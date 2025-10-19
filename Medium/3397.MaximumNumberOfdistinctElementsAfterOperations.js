@@ -20,3 +20,4 @@ var maxDistinctElements = function(nums, k) {
     }
     return count;
 };
+    
