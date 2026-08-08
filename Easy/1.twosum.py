@@ -27,4 +27,4 @@ class Solution(object):
 
             return [seen[find], i]
 
-           seen[nums[i]] = i
+           seen[nums[i]] = i    
